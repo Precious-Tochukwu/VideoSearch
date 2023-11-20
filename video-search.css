@@ -45,6 +45,7 @@ body {
     color: white;
     background-color: #e22e6a;
     z-index: 9;
+    border: solid blue;
 }
 
 #svgnav {
