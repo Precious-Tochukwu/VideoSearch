@@ -9,3 +9,5 @@ const accessKey = "0544076e18219bd931751970012492ef"
 
 const myForm = document.getElementById("myForm");
 const myInput = document.getElementById("search-input");
+const searchVideos = document.querySelector(".search-video");
+const myButton = document.getElementById("myButton");
